@@ -38,7 +38,7 @@ This section will help you create the files you need and install the packages yo
 5) Setup a basic Express server (you will add endpoints later, just get the server ready to run).
 6) Open your package.json. Add your main property (so nodemon will work) and your proxy (so our axios requests will work).
     * Your main should look like `"main": "server/index.js"`
-    * Your proxy should look like `"proxy": "http://localhost:4000"` using whatever port your server is setup to run on (the port should not .
+    * Your proxy should look like `"proxy": "http://localhost:4000"` using whatever port your server is setup to run on (the port should not be 3000 because that is what React will be running on).
 7) Run `nodemon` and make sure your server runs.
 
 ## Database
