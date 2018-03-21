@@ -14,7 +14,7 @@ This section will help you create the files you need and install the packages yo
 
 ## Color Palette & Font
 
-<img src="https://github.com/bethtelford/shelfie-redo/blob/master/assets/style_guide.png" />
+<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/style_guide.png" />
 
 <b>[Google Font - Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)</b>
 
@@ -66,7 +66,7 @@ Congratulations! If you finished all the setup, you've already completed some de
 
 # Part 1
 
-<b>Live example [here](https://shelfie.devmountain.com/v2/part1/). Filled out planning sheet [here](https://github.com/bethtelford/shelfie-redo/blob/master/PLANNING_SHEET.md)</b>
+<b>Live example [here](https://shelfie.devmountain.com/v2/part1/). Filled out planning sheet [here](https://github.com/DevMountain/simulation-1/blob/master/PLANNING_SHEET.md)</b>
 
 For the first part of the project you will be adding two main features: viewing the inventory and adding additional products.
 
@@ -87,7 +87,7 @@ Functionality of the dashboard:
     * If there is no image URL, a default image should appear for the product.
 
 ## Design
-<img src="https://github.com/bethtelford/shelfie-redo/blob/master/assets/part1_view.png" />
+<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/part1_view.png" />
 
 ## Step 1
 You are going to start with the basic layout of the form and setting up the input boxes. You need to store the value of all three inputs in state.
@@ -206,10 +206,10 @@ Functionality of the dashboard:
 
 ## Design
 ### View 
-<img src="https://github.com/bethtelford/shelfie-redo/blob/master/assets/part2_view.png" />
+<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/part2_view.png" />
 
 ### Edit Functionality
-<img src="https://github.com/bethtelford/shelfie-redo/blob/master/assets/part2_edit.png" />
+<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/part2_edit.png" />
 
 ## Step 1
 In this step you will add the delete functionality.
@@ -286,13 +286,13 @@ The functionality:
 
 ## Design
 ### Dashboard
-<img src="https://github.com/bethtelford/shelfie-redo/blob/master/assets/part3_dashboard.png" />
+<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/part3_dashboard.png" />
 
 ### Add
-<img src="https://github.com/bethtelford/shelfie-redo/blob/master/assets/part3_add.png" />
+<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/part3_add.png" />
 
 ### Edit
-<img src="https://github.com/bethtelford/shelfie-redo/blob/master/assets/part3_edit.png" />
+<img src="https://github.com/DevMountain/simulation-1/blob/master/assets/part3_edit.png" />
 
 ## Additional Setup
 Run `npm i react-router-dom --save`
